@@ -1,4 +1,4 @@
-const API_KEY = ''; // здесь нужно вставить свой ключ с https://unsplash.com/ после регистрации
+const API_KEY = 'kcjowtd4k3cqMxiobla4a1UC9XyIsLLpwFRm6kDRf0E'; // здесь нужно вставить свой ключ с https://unsplash.com/ после регистрации
 
 class Api {
   constructor({ baseUrl, apiKey }) {
